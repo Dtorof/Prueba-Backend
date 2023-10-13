@@ -1,0 +1,226 @@
+2023-10-13 00:10:05 [main] INFO  c.c.app.rest.RestApiApplication - Starting RestApiApplication using Java 20 with PID 5324 (C:\Users\diego\Downloads\rest\rest\target\classes started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 00:10:05 [main] DEBUG c.c.app.rest.RestApiApplication - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 00:10:05 [main] INFO  c.c.app.rest.RestApiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 00:10:06 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2023-10-13 00:10:06 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-10-13 00:10:06 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-13 00:10:06 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-10-13 00:10:06 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 865 ms
+2023-10-13 00:10:07 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2023-10-13 00:10:07 [main] INFO  c.c.app.rest.RestApiApplication - Started RestApiApplication in 1.579 seconds (process running for 1.879)
+2023-10-13 00:10:27 [http-nio-8090-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-13 00:10:27 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-10-13 00:10:27 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2023-10-13 00:10:27 [http-nio-8090-exec-2] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parámetros tipo: C y número: 23445322
+2023-10-13 00:10:27 [http-nio-8090-exec-2] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y número: 23445322
+2023-10-13 00:54:52 [main] INFO  c.c.app.rest.RestApiApplication - Starting RestApiApplication using Java 20 with PID 2260 (C:\Users\diego\Downloads\rest\rest\target\classes started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 00:54:52 [main] DEBUG c.c.app.rest.RestApiApplication - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 00:54:52 [main] INFO  c.c.app.rest.RestApiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 00:54:53 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2023-10-13 00:54:53 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-10-13 00:54:53 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-13 00:54:53 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-10-13 00:54:53 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 865 ms
+2023-10-13 00:54:53 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2023-10-13 00:54:53 [main] INFO  c.c.app.rest.RestApiApplication - Started RestApiApplication in 1.619 seconds (process running for 1.956)
+2023-10-13 01:07:13 [main] INFO  c.c.app.rest.RestApiApplicationTests - Starting RestApiApplicationTests using Java 20 with PID 24340 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 01:07:13 [main] DEBUG c.c.app.rest.RestApiApplicationTests - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 01:07:13 [main] INFO  c.c.app.rest.RestApiApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 01:07:14 [main] INFO  c.c.app.rest.RestApiApplicationTests - Started RestApiApplicationTests in 1.107 seconds (process running for 2.183)
+2023-10-13 01:54:33 [main] INFO  c.c.app.rest.RestApiApplicationTests - Starting RestApiApplicationTests using Java 20 with PID 12672 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 01:54:33 [main] DEBUG c.c.app.rest.RestApiApplicationTests - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 01:54:33 [main] INFO  c.c.app.rest.RestApiApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 01:54:34 [main] INFO  c.c.app.rest.RestApiApplicationTests - Started RestApiApplicationTests in 1.215 seconds (process running for 2.132)
+2023-10-13 01:58:39 [main] INFO  c.c.app.rest.RestApiApplicationTests - Starting RestApiApplicationTests using Java 20 with PID 24020 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 01:58:39 [main] DEBUG c.c.app.rest.RestApiApplicationTests - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 01:58:39 [main] INFO  c.c.app.rest.RestApiApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 01:58:40 [main] INFO  c.c.app.rest.RestApiApplicationTests - Started RestApiApplicationTests in 1.253 seconds (process running for 2.169)
+2023-10-13 01:59:10 [main] INFO  c.c.app.rest.RestApiApplicationTests - Starting RestApiApplicationTests using Java 20 with PID 8516 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 01:59:10 [main] DEBUG c.c.app.rest.RestApiApplicationTests - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 01:59:10 [main] INFO  c.c.app.rest.RestApiApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 01:59:11 [main] INFO  c.c.app.rest.RestApiApplicationTests - Started RestApiApplicationTests in 1.118 seconds (process running for 1.924)
+2023-10-13 02:01:44 [main] INFO  c.c.app.rest.RestApiApplicationTests - Starting RestApiApplicationTests using Java 20 with PID 32028 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 02:01:44 [main] DEBUG c.c.app.rest.RestApiApplicationTests - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 02:01:44 [main] INFO  c.c.app.rest.RestApiApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 02:01:45 [main] INFO  c.c.app.rest.RestApiApplicationTests - Started RestApiApplicationTests in 1.109 seconds (process running for 1.935)
+2023-10-13 02:17:28 [main] INFO  c.c.app.rest.RestApiApplicationTests - Starting RestApiApplicationTests using Java 20 with PID 13524 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 02:17:28 [main] DEBUG c.c.app.rest.RestApiApplicationTests - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 02:17:28 [main] INFO  c.c.app.rest.RestApiApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 02:17:29 [main] INFO  c.c.app.rest.RestApiApplicationTests - Started RestApiApplicationTests in 1.137 seconds (process running for 2.043)
+2023-10-13 02:20:23 [main] INFO  c.c.app.rest.RestApiApplicationTests - Starting RestApiApplicationTests using Java 20 with PID 14976 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 02:20:23 [main] DEBUG c.c.app.rest.RestApiApplicationTests - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 02:20:23 [main] INFO  c.c.app.rest.RestApiApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 02:20:24 [main] INFO  c.c.app.rest.RestApiApplicationTests - Started RestApiApplicationTests in 1.123 seconds (process running for 1.933)
+2023-10-13 02:23:01 [main] INFO  c.c.app.rest.RestApiApplicationTests - Starting RestApiApplicationTests using Java 20 with PID 35340 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 02:23:01 [main] DEBUG c.c.app.rest.RestApiApplicationTests - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 02:23:01 [main] INFO  c.c.app.rest.RestApiApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 02:23:02 [main] INFO  c.c.app.rest.RestApiApplicationTests - Started RestApiApplicationTests in 1.153 seconds (process running for 1.967)
+2023-10-13 02:24:56 [main] INFO  c.c.app.rest.ApiControllersTest - Starting ApiControllersTest using Java 20 with PID 33032 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 02:24:56 [main] DEBUG c.c.app.rest.ApiControllersTest - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 02:24:56 [main] INFO  c.c.app.rest.ApiControllersTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 02:24:57 [main] INFO  c.c.app.rest.ApiControllersTest - Started ApiControllersTest in 1.139 seconds (process running for 1.927)
+2023-10-13 02:24:58 [main] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 02:24:58 [main] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 02:24:58 [main] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: X y numero: 23445322
+2023-10-13 02:24:58 [main] ERROR c.c.a.rest.Controller.ApiControllers - Tipo de parametro inválido: X
+2023-10-13 02:24:58 [main] WARN  c.c.a.rest.Controller.ApiControllers - Usuario no encontrado con tipo: X y numero: 23445322
+2023-10-13 02:24:58 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.clients.app.rest.RestApiApplicationTests]: RestApiApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-10-13 02:24:58 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.clients.app.rest.RestApiApplication for test class com.clients.app.rest.RestApiApplicationTests
+2023-10-13 02:27:39 [main] INFO  c.c.app.rest.ApiControllersTest - Starting ApiControllersTest using Java 20 with PID 36460 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 02:27:39 [main] DEBUG c.c.app.rest.ApiControllersTest - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 02:27:39 [main] INFO  c.c.app.rest.ApiControllersTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 02:27:40 [main] INFO  c.c.app.rest.ApiControllersTest - Started ApiControllersTest in 1.133 seconds (process running for 2.07)
+2023-10-13 02:27:41 [main] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 02:27:41 [main] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 02:27:41 [main] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: X y numero: 23445322
+2023-10-13 02:27:41 [main] ERROR c.c.a.rest.Controller.ApiControllers - Tipo de parametro inválido: X
+2023-10-13 02:27:41 [main] WARN  c.c.a.rest.Controller.ApiControllers - Usuario no encontrado con tipo: X y numero: 23445322
+2023-10-13 02:27:41 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.clients.app.rest.RestApiApplicationTests]: RestApiApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-10-13 02:27:41 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.clients.app.rest.RestApiApplication for test class com.clients.app.rest.RestApiApplicationTests
+2023-10-13 02:29:20 [main] INFO  c.c.app.rest.RestApiApplicationTests - Starting RestApiApplicationTests using Java 20 with PID 27584 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 02:29:20 [main] DEBUG c.c.app.rest.RestApiApplicationTests - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 02:29:20 [main] INFO  c.c.app.rest.RestApiApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 02:29:21 [main] INFO  c.c.app.rest.RestApiApplicationTests - Started RestApiApplicationTests in 1.113 seconds (process running for 1.89)
+2023-10-13 02:30:17 [main] INFO  c.c.app.rest.RestApiApplication - Starting RestApiApplication using Java 17.0.6 with PID 13408 (C:\Users\diego\Downloads\rest\rest\target\classes started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 02:30:17 [main] DEBUG c.c.app.rest.RestApiApplication - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 02:30:17 [main] INFO  c.c.app.rest.RestApiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 02:30:18 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2023-10-13 02:30:18 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-10-13 02:30:18 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-13 02:30:18 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-10-13 02:30:18 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 932 ms
+2023-10-13 02:30:18 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2023-10-13 02:30:18 [main] INFO  c.c.app.rest.RestApiApplication - Started RestApiApplication in 1.832 seconds (process running for 2.214)
+2023-10-13 02:30:25 [http-nio-8090-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-13 02:30:25 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-10-13 02:30:25 [http-nio-8090-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-10-13 02:30:25 [http-nio-8090-exec-2] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 02:30:25 [http-nio-8090-exec-2] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 03:30:00 [main] INFO  c.c.app.rest.RestApiApplication - Starting RestApiApplication using Java 20 with PID 24868 (C:\Users\diego\Downloads\rest\rest\target\classes started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 03:30:00 [main] DEBUG c.c.app.rest.RestApiApplication - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 03:30:00 [main] INFO  c.c.app.rest.RestApiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 03:30:01 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2023-10-13 03:30:01 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-10-13 03:30:01 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-13 03:30:01 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-10-13 03:30:01 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 771 ms
+2023-10-13 03:30:01 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-10-13 03:30:01 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-10-13 03:30:01 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-10-13 03:30:01 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8090 or configure this application to listen on another port.
+
+2023-10-13 03:30:20 [main] INFO  c.c.app.rest.RestApiApplication - Starting RestApiApplication using Java 17.0.6 with PID 24564 (C:\Users\diego\Downloads\rest\rest\target\classes started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 03:30:20 [main] DEBUG c.c.app.rest.RestApiApplication - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 03:30:20 [main] INFO  c.c.app.rest.RestApiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 03:30:21 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2023-10-13 03:30:21 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-10-13 03:30:21 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-13 03:30:21 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-10-13 03:30:21 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 961 ms
+2023-10-13 03:30:21 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2023-10-13 03:30:21 [main] INFO  c.c.app.rest.RestApiApplication - Started RestApiApplication in 1.818 seconds (process running for 2.105)
+2023-10-13 03:30:32 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-13 03:30:32 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-10-13 03:30:32 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-10-13 03:30:32 [http-nio-8090-exec-1] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 03:30:32 [http-nio-8090-exec-1] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 03:43:36 [http-nio-8090-exec-3] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 03:43:36 [http-nio-8090-exec-3] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 03:50:53 [http-nio-8090-exec-5] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: asdasda
+2023-10-13 03:50:53 [http-nio-8090-exec-5] WARN  c.c.a.rest.Controller.ApiControllers - Usuario no encontrado con tipo: C y numero: asdasda
+2023-10-13 04:31:45 [http-nio-8090-exec-7] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: P y numero: 23,445,322
+2023-10-13 04:31:45 [http-nio-8090-exec-7] WARN  c.c.a.rest.Controller.ApiControllers - Usuario no encontrado con tipo: P y numero: 23,445,322
+2023-10-13 04:37:11 [http-nio-8090-exec-9] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 04:37:11 [http-nio-8090-exec-9] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 04:38:48 [http-nio-8090-exec-1] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 04:38:48 [http-nio-8090-exec-1] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 04:39:17 [http-nio-8090-exec-3] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 04:39:17 [http-nio-8090-exec-3] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 04:42:48 [http-nio-8090-exec-5] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 04:42:48 [http-nio-8090-exec-5] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 04:43:09 [main] INFO  c.c.app.rest.RestApiApplication - Starting RestApiApplication using Java 17.0.6 with PID 12480 (C:\Users\diego\Downloads\rest\rest\target\classes started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 04:43:09 [main] DEBUG c.c.app.rest.RestApiApplication - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 04:43:09 [main] INFO  c.c.app.rest.RestApiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 04:43:10 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2023-10-13 04:43:10 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-10-13 04:43:10 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-13 04:43:10 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-10-13 04:43:10 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1008 ms
+2023-10-13 04:43:11 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2023-10-13 04:43:11 [main] INFO  c.c.app.rest.RestApiApplication - Started RestApiApplication in 1.865 seconds (process running for 2.22)
+2023-10-13 04:43:24 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-13 04:43:24 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-10-13 04:43:24 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-10-13 04:43:24 [http-nio-8090-exec-1] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 04:43:24 [http-nio-8090-exec-1] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 04:46:56 [http-nio-8090-exec-3] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 04:46:56 [http-nio-8090-exec-3] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 05:09:08 [http-nio-8090-exec-5] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 05:09:08 [http-nio-8090-exec-5] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 05:09:55 [http-nio-8090-exec-6] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 123123
+2023-10-13 05:09:55 [http-nio-8090-exec-6] WARN  c.c.a.rest.Controller.ApiControllers - Usuario no encontrado con tipo: C y numero: 123123
+2023-10-13 05:09:57 [http-nio-8090-exec-7] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 123123
+2023-10-13 05:09:57 [http-nio-8090-exec-7] WARN  c.c.a.rest.Controller.ApiControllers - Usuario no encontrado con tipo: C y numero: 123123
+2023-10-13 05:10:30 [http-nio-8090-exec-8] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 05:10:30 [http-nio-8090-exec-8] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 05:11:58 [http-nio-8090-exec-10] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: P y numero: NaN
+2023-10-13 05:11:58 [http-nio-8090-exec-10] WARN  c.c.a.rest.Controller.ApiControllers - Usuario no encontrado con tipo: P y numero: NaN
+2023-10-13 05:13:55 [http-nio-8090-exec-2] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 05:13:55 [http-nio-8090-exec-2] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 05:18:17 [http-nio-8090-exec-4] INFO  c.c.a.rest.Controller.ApiControllers - Recibidos parametros tipo: C y numero: 23445322
+2023-10-13 05:18:17 [http-nio-8090-exec-4] DEBUG c.c.a.rest.Controller.ApiControllers - Usuario encontrado con tipo: C y numero: 23445322
+2023-10-13 05:20:31 [main] INFO  c.c.app.rest.RestApiApplicationTests - Starting RestApiApplicationTests using Java 20 with PID 35648 (started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 05:20:31 [main] DEBUG c.c.app.rest.RestApiApplicationTests - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 05:20:31 [main] INFO  c.c.app.rest.RestApiApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 05:20:32 [main] INFO  c.c.app.rest.RestApiApplicationTests - Started RestApiApplicationTests in 1.126 seconds (process running for 2.131)
+2023-10-13 05:21:52 [main] INFO  c.c.app.rest.RestApiApplication - Starting RestApiApplication using Java 17.0.6 with PID 31664 (C:\Users\diego\Downloads\rest\rest\target\classes started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 05:21:52 [main] DEBUG c.c.app.rest.RestApiApplication - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 05:21:52 [main] INFO  c.c.app.rest.RestApiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 05:21:53 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2023-10-13 05:21:53 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-10-13 05:21:53 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-13 05:21:53 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-10-13 05:21:53 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1037 ms
+2023-10-13 05:21:54 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2023-10-13 05:21:54 [main] INFO  c.c.app.rest.RestApiApplication - Started RestApiApplication in 2.014 seconds (process running for 2.323)
+2023-10-13 05:21:54 [main] INFO  c.c.app.rest.RestApiApplication - Starting RestApiApplication using Java 17.0.6 with PID 14924 (C:\Users\diego\Downloads\rest\rest\target\classes started by diego in C:\Users\diego\Downloads\rest\rest)
+2023-10-13 05:21:54 [main] DEBUG c.c.app.rest.RestApiApplication - Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-10-13 05:21:54 [main] INFO  c.c.app.rest.RestApiApplication - No active profile set, falling back to 1 default profile: "default"
+2023-10-13 05:21:55 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2023-10-13 05:21:55 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-10-13 05:21:55 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-13 05:21:55 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-10-13 05:21:55 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 921 ms
+2023-10-13 05:21:55 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-10-13 05:21:55 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-10-13 05:21:55 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-10-13 05:21:55 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8090 or configure this application to listen on another port.
+
